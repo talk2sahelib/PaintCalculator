@@ -1,6 +1,4 @@
 # PaintCalculator
-For Borwell Technical Test
-This is a simple Paint Calculator Console Application
 Getting Started:
 
     Open the solution file: PaintCalculator.sln
