@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaintCalculator", "PaintCalculator\PaintCalculator.csproj", "{E36FBDD5-C312-48DA-8731-2A1CEE9CB87C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPaintCalculator", "TestPaintCalculator\TestPaintCalculator.csproj", "{5CD78E4F-D8E8-42C6-AEE0-35125214694D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36FBDD5-C312-48DA-8731-2A1CEE9CB87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36FBDD5-C312-48DA-8731-2A1CEE9CB87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36FBDD5-C312-48DA-8731-2A1CEE9CB87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36FBDD5-C312-48DA-8731-2A1CEE9CB87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD78E4F-D8E8-42C6-AEE0-35125214694D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD78E4F-D8E8-42C6-AEE0-35125214694D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD78E4F-D8E8-42C6-AEE0-35125214694D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD78E4F-D8E8-42C6-AEE0-35125214694D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3C846AE-7243-417E-94E1-EAF8B02D081D}
+	EndGlobalSection
+EndGlobal
