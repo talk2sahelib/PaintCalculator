@@ -4,7 +4,6 @@ namespace PaintCalculator
 {
      public class Program
     {
-       // public static double length, width, height;
         static void Main(string[] args)
         {
 

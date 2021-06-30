@@ -6,6 +6,7 @@ namespace TestPaintCalculator
     [TestClass]
     public class UnitTest1
     {
+        //If I could get more time I would have add more test scenarios
         [TestMethod]
         public void TestMethod1()
         {
